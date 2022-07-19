@@ -1,0 +1,19 @@
+{
+    "songs": [
+        {
+            "id": 1,
+            "title": "Noodgeval",
+            "artists": ["Goldband"]
+        },
+        {
+            "id": 2,
+            "title": "Springstof",
+            "artists": ["Demarrage", "Wander", "Lustrum A.S.C./A.V.S.V."]
+        },
+        {
+            "id": 3,
+            "title": "Waanzin (feat. Siger van Ramshorst)",
+            "artists": ["Don Quichot", "Lustrum Usc", "Siger van Ramshorst"]
+        }
+    ]
+}
