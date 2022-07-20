@@ -1,7 +1,7 @@
 <template>
     <div class="container">
         <h2>Add Song</h2>
-        <form class="col-md-6 offset-md-3 needs-validation" v-on:submit="submit" novalidate> 
+        <form class="col-md-6 offset-md-3 needs-validation" novalidate> 
             <div class="mb-3">
                 <label for="inputTitle" class="form-label">Titel</label>
                 <input type="text" v-model="title" class="form-control" id="inputTitle" required autofocus>
@@ -27,7 +27,7 @@
                 </div>
             </div>
             <div class="d-grid col-6 mx-auto">
-                <button type="submit" class="btn btn-primary">Voeg toe</button>
+                <button @click="submit" type="button" class="btn btn-primary">Voeg toe</button>
             </div>
         </form>
     </div>

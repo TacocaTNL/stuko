@@ -1,6 +1,6 @@
 <template>
     <ol class="list-group text-start">
-        <SongItem :key="song.id" v-for="song in filterByTerm" :song="song" />
+        <SongItem :key="song.id" v-for="song in filterByTerm.sort((a, b) => (a.title > b.title) ? 1 : -1)" :song="song" />
     </ol>
 </template>
 
