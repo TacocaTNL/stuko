@@ -1,12 +1,12 @@
 <template>
-    <li class="list-group-item d-flex justify-content-between align-items-start">
+    <router-link :to="{name: 'Lyrics', params: {songId: song.id}}" class="list-group-item list-group-item-action d-flex justify-content-between align-items-start">
         <div class="ms-2 me-auto">
             <div class="fw-bold">{{song.title}}</div>
             <span :key="index" v-for="(artist, index) in song.artists">
             {{nameWithComma(index)}}
             </span>
         </div>
-    </li>
+    </router-link>
 </template>
 
 <script>

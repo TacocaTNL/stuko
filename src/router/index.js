@@ -1,5 +1,5 @@
 import {createRouter, createWebHistory} from 'vue-router'
-import About from '../views/About'
+import Lyrics from '../views/Lyrics'
 import AddSong from '../views/AddSong'
 import Home from '../views/Home'
 
@@ -10,9 +10,9 @@ const routes = [
         component: Home
     },
     {
-        path: '/about',
-        name: 'About',
-        component: About
+        path: '/lyrics/:songId',
+        name: 'Lyrics',
+        component: Lyrics
     },
     {
         path: '/addsong',
