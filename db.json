@@ -1,19 +1,22 @@
 {
-    "songs": [
-        {
-            "id": 1,
-            "title": "Noodgeval",
-            "artists": ["Goldband"]
-        },
-        {
-            "id": 2,
-            "title": "Springstof",
-            "artists": ["Demarrage", "Wander", "Lustrum A.S.C./A.V.S.V."]
-        },
-        {
-            "id": 3,
-            "title": "Waanzin (feat. Siger van Ramshorst)",
-            "artists": ["Don Quichot", "Lustrum Usc", "Siger van Ramshorst"]
-        }
-    ]
+  "songs": [
+    {
+      "title": "Waanzin (feat. Siger Van Ramshorst)",
+      "artists": [
+        "Don Quichot",
+        "Lusturm Usc",
+        "Siger Van Ramshorst"
+      ],
+      "lyrics": "Epic",
+      "id": 1
+    },
+    {
+      "title": "Dakterras",
+      "artists": [
+        "Swifty Official"
+      ],
+      "lyrics": "[Verse 1]\nHoogverheven shine als de zonnestralen dalen\nHoogtevrees afwezig in dit paleis op aarde\nEen parasol, een bar, en een hele hoop strandstoelen\nAls je weet wat we bedoelen\nWeet je wat echt chill zou zijn (Nou wat?)\nAls een plein\nEen stukje hoger zou zijn\nEen chillspot van de hoogste klas\nPrecies ja, een dakterras\nDus doe je zonnebril op en je rugzak af\nGeloof me vriend nee, niks is te maf\nIedereen is welkom op deze parté\nDe cadeautip? Neem je moeder mee\n\n[Chorus]\nWe chillen op het dakterras\nEn vanavond gaat het dak eraf\nMaar voor het zover komt ontpop ik nog een bav\nEn layback in de noorderzon\nLayback in de noorderzon\nLayback tot de zon opkomt\nDak-te-ras\nOverhemd op een kiertje\nM'n linker een biertje\nDak-te-ras\nPeuk achter m'n oor, er is niemand die ons stoort\nOp het dak-te-ras\nOverhemd op een kiertje\nM'n linker een biertje\nDak-te-ras\nPeuk achter m'n oor, er is niemand die ons stoort\n\n[Verse 2]\nDe barbecue die is een weber\nIk ben geen stresser maar een zwever\nIk ben geen moocher maar een gever\nHamburgers voor ons tweeën\nGeef je wat mayo en wat ketchup\nEven genieten baby let op\nJe bent een mooi geklede dame\nDit dakterras is voor ons samen\nMaar stel je voor dat stijl niks meer voorstelt\nDan stel ik voor dat iedereen van schoenen ruilt\nDan komen wij in sokken met sandalen\nBen jij nog steeds de gast die loopt te balen\nSwifty is formidabel\nDe steez zijn imponderabel\nDus fok het zwembad, fok het strand en fok het gras\nBen als een hengel in het water op het dakterras\n\n[Chorus]\nWe chillen op het dakterras\nEn vanavond gaat het dak eraf\nMaar voor het zover komt ontpop ik nog een bav\nEn layback in de noorderzon\nLayback in de noorderzon\nLayback tot de zon opkomt (Swiftyy)\nDak-te-ras\nOverhemd op een kiertje\nM'n linker een biertje\nDak-te-ras\nPeuk achter m'n oor, er is niemand die ons stoort\nOp het dak-te-ras\nOverhemd op een kiertje\nM'n linker een biertje\nDak-te-ras\nPeuk achter m'n oor, er is niemand die ons stoort want\n\n[Bridge]\nHelemaal gek op het dakterras\nDe A-kerk die me toelacht\nIk heb de zon in m'n nek\nWat een epische plek\nDoe mij maar vijftien bier\nWant het is al over vier\nPunten halen komt later\nWant wij gaan door\n\n[Verse 3]\n1, 2, 3, 4\nDus space, vibe, feest lekker door\nZak door je knieën en gedraag je ongehoord\nEn yo Mart (Wat?)\nDie beat is best wel lekker\nVoor een blanke rapper\nDak-te-ras\nDak-te-ras\nDak-te-ras\nDak dak dakterras\nWe zeggen\nDak-te-ras\nDak-te-ras\nDak-te-ras\nDak dakdakterras\n\n[Outro]\nJaja dat was hem weer\nHa 2016 shit (uhum uhum)\nDit was Swifty\nMotherfuckers (haha)",
+      "id": 2
+    }
+  ]
 }
